@@ -1,0 +1,12 @@
+# Ignora tutte le immagini
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.raw
+*.NEF
+# Altri formati di immagini comuni
+*.ico
+*.svg
